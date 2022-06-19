@@ -1,5 +1,5 @@
 exports.paginaInicial = (req,res) =>{
-    res.send('Minha cabeça explodiu agora!!');
+    res.render('index');
 };
 
 exports.trataPost = (req,res)=>{
