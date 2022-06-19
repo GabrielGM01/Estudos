@@ -10,3 +10,4 @@
 // npm outdated                        - Busca pacotes desatualizados
 // npm update                          - Atualiza os pacotes
 // "express": "~2.1.1"         -ele não atualiza acima de 2 exemplo(3.1.1)
+// npm install     instalar pacotes do package.json
